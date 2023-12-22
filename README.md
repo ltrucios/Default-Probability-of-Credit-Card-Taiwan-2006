@@ -25,4 +25,8 @@
 * Y: client's behavior; Y=0 then not default, Y=1 then default
 
 
-**Project Title**: Default Probability of Credit Card - Taiwan 2006
+**Why is the project worth undertaking?**
+* The project's potential implications are significant in the financial sector. By analyzing demographic characteristics and financial behavior to project default probabilities, the model developed can help banks identify clients at risk of defaulting on their credit card payments, and would allow banks to take timely financial measures. 
+* In real-world cases, the results of this project can be used for (i) Default Prevention, (ii) Risk management, (iii) Customer Segmentation and (iv) Regulatory Compliances.
+* This project is worth undertaking because it addresses a real-world problem in the financial sector, where accurate assessment of credit risk is crucial to the stability of banks. It leverages machine learning techniques to provide a data-driven solution that would have a positive impact
+
